@@ -46,7 +46,7 @@ class DateTimeCalendar:
         master : object
             tkinter root window object
         """
-        width, height = 285, 300
+        width, height = 280, 300
         # Place the calendar to where the mouse cursor
         ws = master.winfo_screenwidth()
         hs = master.winfo_screenheight()
